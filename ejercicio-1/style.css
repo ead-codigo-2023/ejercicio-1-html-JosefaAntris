@@ -1,0 +1,32 @@
+body{
+    color: #000000;
+    font: 100% lato, sans-serif;
+    margin-left: 6rem;
+    margin-right: 25rem;
+    letter-spacing: 0;
+    line-height: 1.5;
+    
+}
+h4{ /*Acerca*/
+    color: rgb(11, 2, 51);
+    font-size: 4rem;
+}
+h1{ /*Titulos*/
+    color: rgb(37, 42, 65);
+    font: 100% lato;
+    font-size: 2rem;
+    font-weight: medium;
+    margin-top: 2rem;
+
+}
+
+h2{ /*Parrafos*/
+    font-size: 1.5rem;
+    font-weight: lighter;
+
+}
+
+h3{ /*Listas*/
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
